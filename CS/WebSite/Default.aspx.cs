@@ -6,7 +6,7 @@ public partial class _Default : System.Web.UI.Page {
         if (!IsCallback && !IsPostBack)
             htmlEditor.Html = LoadHtml();
     }
-    protected void htmlEditor_CustomDataCallback(object sender, DevExpress.Web.ASPxClasses.CustomDataCallbackEventArgs e) {
+    protected void htmlEditor_CustomDataCallback(object sender, DevExpress.Web.CustomDataCallbackEventArgs e) {
         switch (e.Parameter) {
             case "Save":
                 //Code Central - Read Only Mode

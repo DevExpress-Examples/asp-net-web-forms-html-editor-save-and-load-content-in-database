@@ -9,7 +9,7 @@ Partial Public Class _Default
 			htmlEditor.Html = LoadHtml()
 		End If
 	End Sub
-	Protected Sub htmlEditor_CustomDataCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxClasses.CustomDataCallbackEventArgs)
+	Protected Sub htmlEditor_CustomDataCallback(ByVal sender As Object, ByVal e As DevExpress.Web.CustomDataCallbackEventArgs)
 		Select Case e.Parameter
 			Case "Save"
 				'Code Central - Read Only Mode
