@@ -8,7 +8,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e2225/)**
 <!-- run online end -->
 
-This example demonstrates how to create [custom toolbar buttons](https://docs.devexpress.com/AspNet/4084/components/html-editor/concepts/toolbars/menu-toolbar/menu-toolbar-items/custom-toolbar-items) that allow users to save and load content of [ASPxHtmlEditor](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHtmlEditor.ASPxHtmlEditor) in a database.
+This example demonstrates how to create [custom toolbar buttons](https://docs.devexpress.com/AspNet/4084/components/html-editor/concepts/toolbars/menu-toolbar/menu-toolbar-items/custom-toolbar-items) that allow users to save and load [ASPxHtmlEditor](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHtmlEditor.ASPxHtmlEditor) content in a database.
 
 ![](html-editor-with-custom-toolbar.png)
 
