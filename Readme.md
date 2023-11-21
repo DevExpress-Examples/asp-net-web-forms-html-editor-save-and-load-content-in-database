@@ -1,23 +1,22 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128545148/13.1.4%2B)
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2225)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
 
-* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
-<!-- default file list end -->
-# How to save/load content of the ASPxHtmlEditor within a database
+# HTML Editor for ASP.NET Web Forms - How to save/load the control's content to/from a database
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2225/)**
 <!-- run online end -->
 
+This example demonstrates how to create [custom toolbar buttons](https://docs.devexpress.com/AspNet/4084/components/html-editor/concepts/toolbars/menu-toolbar/menu-toolbar-items/custom-toolbar-items) that allow users to save and load [ASPxHtmlEditor](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHtmlEditor.ASPxHtmlEditor) content in a database.
 
-<p>This demo illustrates how to create an ASPxHtmlEditor's <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorCustomToolbarMembersTopicAll">CustomToolbar</a> and provide the capability to save/load content of the ASPxHtmlEditor within a database.</p><p><strong>See Also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E377">How to bind the Html property to a database field</a></p>
+![](html-editor-with-custom-toolbar.png)
 
-<br/>
+## Files to Review
 
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 
+## More Examples
+
+* [HTML Editor for ASP.NET Web Forms - How to bind the Html property to a database field](https://github.com/DevExpress-Examples/asp-net-web-forms-html-editor-bind-html-property-to-database)
