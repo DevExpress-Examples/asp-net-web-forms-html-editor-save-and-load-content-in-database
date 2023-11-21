@@ -9,15 +9,15 @@
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
-# How to save/load content of the ASPxHtmlEditor within a database
+# HTML Editor for ASP.NET Web Forms - How to save/load the control's content to/from a database
 <!-- run online -->
 **[[Run Online]](https://codecentral.devexpress.com/e2225/)**
 <!-- run online end -->
 
+This example demonstrates how to create [custom toolbar buttons](https://docs.devexpress.com/AspNet/4084/components/html-editor/concepts/toolbars/menu-toolbar/menu-toolbar-items/custom-toolbar-items) that allows to save and load content of the [ASPxHtmlEditor](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxHtmlEditor.ASPxHtmlEditor) in a database.
 
-<p>This demo illustrates how to create an ASPxHtmlEditor's <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxHtmlEditorCustomToolbarMembersTopicAll">CustomToolbar</a> and provide the capability to save/load content of the ASPxHtmlEditor within a database.</p><p><strong>See Also:</strong><br />
-<a href="https://www.devexpress.com/Support/Center/p/E377">How to bind the Html property to a database field</a></p>
+![](html-editor-with-custom-toolbar.png)
 
-<br/>
+## More Examples
 
-
+* [HTML Editor for ASP.NET Web Forms - How to bind the Html property to a database field](https://github.com/DevExpress-Examples/asp-net-web-forms-html-editor-bind-html-property-to-database)
