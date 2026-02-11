@@ -20,7 +20,7 @@ This example demonstrates how to create [custom toolbar buttons](https://docs.de
 
 * [HTML Editor for ASP.NET Web Forms - How to bind the Html property to a database field](https://github.com/DevExpress-Examples/asp-net-web-forms-html-editor-bind-html-property-to-database)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-html-editor-save-and-load-content-in-database&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-html-editor-save-and-load-content-in-database&~~~was_helpful=no)
 
